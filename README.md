@@ -13,9 +13,6 @@
 <br>
 
 
-
-
-
 <details>
   <summary><strong>How to use handbreak when moving off</strong> </summary>
   <div style="display: flex; justify-content: space-between;">
@@ -41,7 +38,29 @@
     <br>
     <em style="height:40px; display:block;">Warning: fast starts and over revving can burn out clutch quickly.</em>
   </div>
+    
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 20px;">
+      <iframe src="https://www.youtube.com/embed/YDsRlSJoqsw?si=cgjeaDi_zXk_xo72&amp;start=37&amp;clip=Ugkx0Upedwrho3Enphp-WSAgPLPguVTXdpVA&amp;clipt=EP_DDhj0mxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">Fast starts with gas 1500 revs</em>
+  </div>
+    
+  <div style="flex: 1; margin-right: 20px;">
+    <iframe src="https://www.youtube.com/embed/YDsRlSJoqsw?si=gPwy2fYfs123OA8f&amp;start=37&amp;clip=Ugkxlb549GRLfNm3P6HqABLREYN8OyR3dJOY&amp;clipt=EKabERii1RI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">Fast starts with gas 2000 revs</em>
+  </div>
+  
+  <div style="flex: 1;">
+    <iframe src="https://www.youtube.com/embed/YDsRlSJoqsw?si=dvpPo-Y1iJdwEqgJ&amp;start=37&amp;clip=UgkxCnAnQyqhbWV-_Ve8mWLANs3e5_7Mtnqo&amp;clipt=EM7SEhiG_BU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;" ></iframe>
+    <br>
+    <em style="height:40px; display:block;">Fast starts with more gas after clutch finished rev matching</em>
+  </div>
 </div>
+</div>
+
+  
 </details>
 <br>
 
