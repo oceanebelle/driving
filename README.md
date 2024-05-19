@@ -1,6 +1,6 @@
-# Conquer Driving Clips
+# Conquer Driving clips
 
-## Changing Gears Up Gears Smoothly
+## Changing gears up smoothly
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; ">
@@ -9,9 +9,9 @@
     <strong style="height:40px; display:block;">What causes jerkiness when changing up gears</strong>
   </div>
 </div>
-<br>
 
-### Beginner technique for changing gears for beginners and learners
+<br>
+#### Beginner technique for changing up gears. Easy for learner but can slow down
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 50px;">
@@ -26,7 +26,8 @@
   </div>
 </div>
 
-### Advanced techniques for Changing Up Gears Smoothly
+<br>
+#### Advanced method for changing up gear smoothly without slowing down
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; ">
