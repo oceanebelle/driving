@@ -12,7 +12,6 @@
 
 <br>
 #### Beginner technique for changing up gears. Easy for learner but can slow down
-<br>
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; margin-right: 50px;">
@@ -29,7 +28,6 @@
 
 <br>
 #### Advanced method for changing up gear smoothly without slowing down
-<br>
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; ">
