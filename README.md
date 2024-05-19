@@ -138,4 +138,35 @@
 </details>
 <br>
 
+## How to smooth out gear changes
+
+<details>
+  <summary><strong>Jerkiness or clunk sound when pressing down the clutch</strong> </summary>
+  <div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; ">
+    <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=ZHFFK7FFSwQ03Q9Z&amp;clip=Ugkx65Fan3BPUbejM2qpjndzCQNwTzk3oZKL&amp;clipt=EMT5BBijzgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">Problem when clutch is disengaging whilst varying gas</em>
+  </div>
+</div>
+
+
+<div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 50px;">
+      <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=m6WFFQCbnkXbbVYC&amp;clip=UgkxYFYXy_zWo3nAOy0JXDHnqTJOs8pXBNfv&amp;clipt=ENu5CRiO1Qo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen allowfullscreen style="width:100%; height:400px;" ></iframe>
+      <br>
+      <em style="height:40px; display:block;">How to fix clutch down problem</em>
+    </div>
+    <div style="flex: 1;">
+      <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=QmvEQk44XNeNo2xP&amp;clip=Ugkx6f_BuuWl6GQeqdWmMWStNjofszyXQJk8&amp;clipt=EKPsCxjZow0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen allowfullscreen style="width:100%; height:400px;"></iframe>
+      <br>
+      <em style="height:40px; display:block;">How fast to press the clutch down</em>
+    </div>
+</div>
+
+  
+</details>
+<br>
+
+
 
