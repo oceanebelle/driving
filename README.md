@@ -140,7 +140,7 @@
 
 ## How to smooth out gear changes
 
-<details>
+<details open>
   <summary><strong>Jerkiness or clunk sound when pressing down the clutch</strong> </summary>
   <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; ">
@@ -149,6 +149,11 @@
     <em style="height:40px; display:block;">Problem when clutch is disengaging whilst varying gas</em>
   </div>
 </div>
+</details>
+<br>
+
+<details>
+  <summary><strong>How to fix clutch down</strong> </summary>
 
 <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; ">
