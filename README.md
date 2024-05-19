@@ -64,7 +64,7 @@
     <div style="flex: 1;">
       <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=uoPdlzUAOJTudgsh&amp;clip=UgkxIbWSFxG5cXUTlQqDr6-bY9hC28YdfSPt&amp;clipt=ENjsAhidwgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;" ></iframe>
       <br>
-      <em style="height:40px; display:block;">How slow to go to change down gears smoothly</em>
+      <em style="height:40px; display:block;">Downshift by slowing down to 1000 revs. No need to hold bitepoint</em>
     </div>
 </div>
 <br>
@@ -72,7 +72,7 @@
     <div style="flex: 1;">
       <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=IQdcJ3N-byiKiHwb&amp;clip=Ugkxn_BlMMkSAIyz317UHLSt_kj2m223IQFG&amp;clipt=EMzyERjH_RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
       <br>
-      <em style="height:40px; display:block;">Smooth downshift demo</em>
+      <em style="height:40px; display:block;">Downshift by holding on the bitepoint and let clutch finish rev matching</em>
     </div>
 </div>
 </details>
