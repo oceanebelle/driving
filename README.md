@@ -38,7 +38,9 @@
     <br>
     <em style="height:40px; display:block;">Warning: fast starts and over revving can burn out clutch quickly.</em>
   </div>
-    
+  </div>
+  
+  <br>
   <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1; margin-right: 20px;">
       <iframe src="https://www.youtube.com/embed/YDsRlSJoqsw?si=cgjeaDi_zXk_xo72&amp;start=37&amp;clip=Ugkx0Upedwrho3Enphp-WSAgPLPguVTXdpVA&amp;clipt=EP_DDhj0mxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
@@ -58,9 +60,6 @@
     <em style="height:40px; display:block;">Fast starts with more gas after clutch finished rev matching</em>
   </div>
 </div>
-</div>
-
-  
 </details>
 <br>
 
