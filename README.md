@@ -63,6 +63,23 @@
 </details>
 <br>
 
+<details>
+  <summary><strong>Clutch control for slow speeds or manoeuvres</strong> </summary>
+  <div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; margin-right: 50px;">
+    <iframe src="https://www.youtube.com/embed/BmM-fO5AFHc?si=omClfC1zyNnqtqiA&amp;clip=UgkxztIOJJYFHDaTydYcgxUNRgZOuLcvQlFi&amp;clipt=EKP0Exj93hU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">How to position foot properly on the clutch pedal to find and control biting point</em>
+  </div>
+  <div style="flex: 1;">
+    <iframe src="https://www.youtube.com/embed/BmM-fO5AFHc?si=0UEwxosV3C4m718P&amp;clip=UgkxcQa52uX7pa7aEnnuKN8OgDpP7uX4M2Lg&amp;clipt=ELDcFRjgxhc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">Moving clutch up or down to conrol speed</em>
+  </div>
+</div>
+</details>
+<br>
+
 ## Changing gears up
 
 <details open>
