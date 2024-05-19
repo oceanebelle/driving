@@ -77,6 +77,16 @@
     <em style="height:40px; display:block;">Moving clutch up or down to control speed</em>
   </div>
 </div>
+
+<br>
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; ">
+    <iframe src="https://www.youtube.com/embed/BmM-fO5AFHc?si=Vkb18Nn-OeKrdi5i&amp;clip=Ugkxd9U_Y8q3GvFmQu7N4osOt1Dlo59dObN5&amp;clipt=EI63CRjr7ww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">Using clutch control to move off and control the car slowly</em>
+  </div>
+  </div>
+  
 </details>
 <br>
 
