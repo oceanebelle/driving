@@ -12,6 +12,10 @@
 </details>
 <br>
 
+
+
+
+
 <details>
   <summary><strong>How to use handbreak when moving off</strong> </summary>
   <div style="display: flex; justify-content: space-between;">
@@ -24,6 +28,18 @@
     <iframe src="https://www.youtube.com/embed/k1SBFfMbksI?si=-EJzNTO4clAId7kr&amp;clip=Ugkxbf1PFcOnjdY8UZtjBi90RO_9aet0B_mc&amp;clipt=EJiJCRigyAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
     <br>
     <em style="height:40px; display:block;">Handbreak on when moving off to assist with Hillstarts</em>
+  </div>
+</div>
+</details>
+<br>
+
+<details>
+  <summary><strong>Advanced: Theory behind fast starts </strong> </summary>
+  <div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; ">
+    <iframe src="https://www.youtube.com/embed/YDsRlSJoqsw?si=TRhCzYbQu6glLoo1&amp;start=37" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">Warning: fast starts and over revving can burn out clutch quickly.</em>
   </div>
 </div>
 </details>
