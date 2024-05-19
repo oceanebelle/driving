@@ -161,8 +161,6 @@
       <em style="height:40px; display:block;">How to fix clutch down problem</em>
     </div>
 </div>
-  
-</div>
 </details>
 <br>
 
@@ -190,12 +188,12 @@
     <div style="flex: 1; margin-right: 50px;">
       <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=sUcRr4Jn1bViHrE7&amp;clip=Ugkxy-LslQDREIC1n_A1TavTWUlyW9x0hyqb&amp;clipt=EN7wDhjmmhE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
       <br>
-      <em style="height:40px; display:block;">Leave gas first then clutch down. Easy but does not apply to all cars with engine breaking</em>
+      <em style="height:40px; display:block;">Come off the gas first then clutch down. Easy but does not apply to all cars with engine breaking</em>
     </div>
   <div style="flex: 1;">
     <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=2IDhKT4wWFBtT2D0&amp;clip=Ugkxi1bkm3jl2DM-WqhFAdImy1BrMwDm-xna&amp;clipt=EImnEhi7rRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
       <br>
-      <em style="height:40px; display:block;">How to reduce chances of varying gas when pressing clutch down</em>
+      <em style="height:40px; display:block;">Clutch down first then off gas. More difficult and can cause revs to shoot up</em>
     </div>
 </div>
 </details>
