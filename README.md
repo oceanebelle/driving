@@ -79,4 +79,29 @@
 <br>
 
 
+<details>
+  <summary><strong> Changing down gears smoothly with gas (Manual Rev Match) techniques </strong> </summary>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1; margin-right: 50px;">
+      <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=pM5IzQK0xJH8S12k&amp;clip=UgkxgTRaQbyy21IjdaVWP5yubIDeob4Ke-Ut&amp;clipt=EMCqGRig_xw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;" ></iframe>
+      <br>
+      <em style="height:40px; display:block;">Rev matching with steady gas when downshifting</em>
+    </div>
+    <div style="flex: 1;">
+      <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=ufp4vu3FsrM-CyxU&amp;clip=Ugkx50xbfYR71JRT9Jdy-L7A2veR-xrYERQh&amp;clipt=EOmQHhjykCA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;" ></iframe>
+      <br>
+      <em style="height:40px; display:block;">Rev matching with quick gas (blip) when downshifting</em>
+    </div>
+</div>
+<br>
+  <div style="display: flex; justify-content: space-between;">
+    <div style="flex: 1;">
+      <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=iqHZbQAnC4NDJlkV&amp;clip=UgkxK84L2MhbSTQZz47SXgmjaCPjjkMAi61u&amp;clipt=EKuyIBi2uiI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+      <br>
+      <em style="height:40px; display:block;">Advanced Rev matching using heel and toe when downhifting. (Rev matching while breaking and quick blip)</em>
+    </div>
+</div>
+</details>
+<br>
+
 
