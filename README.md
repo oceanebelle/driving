@@ -2,13 +2,16 @@
 
 ## Changing gears up
 
-<div style="display: flex; justify-content: space-between;">
+<details open>
+  <summary>What causes jerkiness when changing up gears</summary>
+  <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; ">
     <iframe src="https://www.youtube.com/embed/68WTSe-_FhY?si=TI-pUKUWzVKhAY4S&amp;clip=UgkxqnSsrqwwtjgdIuA_nP3RFPgAUzC8Gqdv&amp;clipt=ENSaBxj4ugk" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
     <br>
     <em style="height:40px; display:block;">What causes jerkiness when changing up gears</em>
   </div>
 </div>
+</details>
 
 <details>
   <summary>Beginner technique for changing up gears. Easy for learner but can slow down</summary>
