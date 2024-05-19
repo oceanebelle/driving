@@ -59,7 +59,7 @@
 <br>
 
 <details>
-  <summary><strong>Advanced method for changing up gear smoothly without slowing down</strong> </summary>
+  <summary><strong>Advanced method for changing up gear smoothly without slowing down applies to all cars</strong> </summary>
   <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; ">
     <iframe src="https://www.youtube.com/embed/68WTSe-_FhY?si=9Swk0Ea3voKSRkAK&amp;clip=UgkxaYxhdiHBJhHRY9XdCeLQ16JeWfbEmQTC&amp;clipt=EP6eGxiI8h4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
@@ -67,6 +67,11 @@
     <em style="height:40px; display:block;">Full technique for changing up smoothly without slowing down</em>
   </div>
 </div>
+  <div style="flex: 1;">
+    <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=trfvTb9fbV8AZXEN&amp;clip=Ugkx3JyR5d263FNC6T8mw2V1Y9q3C_AoMvOz&amp;clipt=EP6cKBjkvyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">A demo on changing gear in car with aggressive engine breaking</em>
+  </div>
 </details>
 <br>
 
