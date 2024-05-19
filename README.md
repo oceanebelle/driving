@@ -157,10 +157,15 @@
       <br>
       <em style="height:40px; display:block;">How to fix clutch down problem</em>
     </div>
-    <div style="flex: 1;">
+    <div style="flex: 1; margin-right: 50px;"">
       <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=QmvEQk44XNeNo2xP&amp;clip=Ugkx6f_BuuWl6GQeqdWmMWStNjofszyXQJk8&amp;clipt=EKPsCxjZow0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen allowfullscreen style="width:100%; height:400px;"></iframe>
       <br>
       <em style="height:40px; display:block;">How fast to press the clutch down</em>
+    </div>
+  <div style="flex: 1;">
+      <iframe src="https://www.youtube.com/embed/_RyT_oQ7hq0?si=j3f-zX8Uzxc6IYCV&amp;clip=UgkxqrKy7e4UmQYcd8x6p_qku9tKWYYv4puN&amp;clipt=EP-nDRif8Q4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+      <br>
+      <em style="height:40px; display:block;">How to reduce chances of varying gas when pressing clutch down</em>
     </div>
 </div>
 
