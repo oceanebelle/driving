@@ -61,11 +61,14 @@
       <br>
       <em style="height:40px; display:block;">Advice on changing down gears</em>
     </div>
-    <div style="flex: 1; margin-right: 50px;">
+    <div style="flex: 1;">
       <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=uoPdlzUAOJTudgsh&amp;clip=UgkxIbWSFxG5cXUTlQqDr6-bY9hC28YdfSPt&amp;clipt=ENjsAhidwgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;" ></iframe>
       <br>
       <em style="height:40px; display:block;">How slow to go to change down gears smoothly</em>
     </div>
+</div>
+<br>
+  <div style="display: flex; justify-content: space-between;">
     <div style="flex: 1;">
       <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=uoPdlzUAOJTudgsh&amp;clip=UgkxIbWSFxG5cXUTlQqDr6-bY9hC28YdfSPt&amp;clipt=ENjsAhidwgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;" ></iframe>
       <br>
