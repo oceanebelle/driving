@@ -1,6 +1,6 @@
 # Conquer Driving clips
 
-## Changing gears up smoothly
+## Changing gears up
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1; ">
@@ -34,6 +34,16 @@
     <iframe src="https://www.youtube.com/embed/68WTSe-_FhY?si=9Swk0Ea3voKSRkAK&amp;clip=UgkxaYxhdiHBJhHRY9XdCeLQ16JeWfbEmQTC&amp;clipt=EP6eGxiI8h4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
     <br>
     <em style="height:40px; display:block;">Full technique for changing up smoothly without slowing down</em>
+  </div>
+</div>
+
+
+## Changing gears down
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; ">
+    <iframe src="https://www.youtube.com/embed/RMYtBIO6mLM?si=7yoU-ukr7JwESCtD&amp;clip=Ugkxqyg8Mb1NfUZ3QgYOskoLYjBDgGYenl3q&amp;clipt=ENg2GMHpAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen style="width:100%; height:400px;"></iframe>
+    <br>
+    <em style="height:40px; display:block;">What causes jerkiness when changing down gears</em>
   </div>
 </div>
 
